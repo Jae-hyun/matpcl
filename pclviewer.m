@@ -29,7 +29,7 @@
 function pclviewer(points, args)
     
     % change the next line to suit your operating system
-    viewer = 'C:\Users\Administrator\Downloads\matpcl\bin\pcd_viewer_release.exe';
+    viewer = 'C:\Users\Administrator\Documents\GitHub\matpcl\bin\pcd_viewer_release.exe';
 
      
     pointfile = [tempname '.pcd'];
